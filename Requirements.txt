@@ -1,1 +1,1 @@
-crowd-api
+jira-python
